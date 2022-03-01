@@ -1,0 +1,14 @@
+11
+SWITCH      0    NoLabel        159    279
+SWITCH      1    NoLabel        160    411
+BUFFER      2    NoLabel        369    256
+INVERTER    3    NoLabel        363    416
+AND2        4    NoLabel    601    330
+LED         5    NoLabel        767    290
+Connections
+4    5    1
+2    4    1
+3    4    2
+0    2    1
+1    3    1
+-1

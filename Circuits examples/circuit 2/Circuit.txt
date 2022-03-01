@@ -1,0 +1,12 @@
+9
+XOR2        0    xor    xor    472    439
+INVERTER    1    NoLabel        617    427
+LED         2    NoLabel        777    369
+SWITCH      3    NoLabel        217    350
+SWITCH      4    NoLabel        205    510
+Connections
+1    2    1
+0    1    1
+3    0    1
+4    0    2
+-1
